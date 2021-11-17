@@ -1,0 +1,163 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\agregar.png" />
+    <None Remove="Resources\BUSCAR01.bmp" />
+    <None Remove="Resources\cabecera.png" />
+    <None Remove="Resources\cerrarBug.png" />
+    <None Remove="Resources\comentar.png" />
+    <None Remove="Resources\editar.png" />
+    <None Remove="Resources\eliminar.png" />
+    <None Remove="Resources\Empty Recycle Bin 2000.ico" />
+    <None Remove="Resources\menu.png" />
+    <None Remove="Resources\salir.png" />
+    <None Remove="Resources\test.png" />
+    <None Remove="Resources\user.jpg" />
+    <None Remove="Resources\user_log.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\agregar.png" />
+    <Content Include="Resources\BUSCAR01.bmp" />
+    <Content Include="Resources\cabecera.png" />
+    <Content Include="Resources\cerrarBug.png" />
+    <Content Include="Resources\comentar.png" />
+    <Content Include="Resources\editar.png" />
+    <Content Include="Resources\eliminar.png" />
+    <Content Include="Resources\Empty Recycle Bin 2000.ico" />
+    <Content Include="Resources\menu.png" />
+    <Content Include="Resources\salir.png" />
+    <Content Include="Resources\test.png" />
+    <Content Include="Resources\user.jpg" />
+    <Content Include="Resources\user_log.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VeterinariaBack\VeterinariaBack.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Presentacion\AtencionF\frmABMAtencion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\AtencionF\frmABMAtencion.designer.cs">
+      <DependentUpon>frmABMAtencion.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\AtencionF\frmAtencion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\AtencionF\frmAtencion.designer.cs">
+      <DependentUpon>frmAtencion.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\ClienteF\frmABMCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\ClienteF\frmABMCliente.designer.cs">
+      <DependentUpon>frmABMCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\ClienteF\frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\ClienteF\frmCliente.designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\frmPrincipal.designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\MascotaF\frmABMMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\MascotaF\frmABMMascota.designer.cs">
+      <DependentUpon>frmABMMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\MascotaF\frmMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\MascotaF\frmMascota.designer.cs">
+      <DependentUpon>frmMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\TipoF\frmABMTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\TipoF\frmABMTipo.designer.cs">
+      <DependentUpon>frmABMTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\TipoF\frmTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\TipoF\frmTipo.designer.cs">
+      <DependentUpon>frmTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\UsuariosF\frmABMUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\UsuariosF\frmABMUsuario.designer.cs">
+      <DependentUpon>frmABMUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Presentacion\UsuariosF\frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentacion\UsuariosF\frmUsuario.designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Presentacion\AtencionF\frmABMAtencion.resx">
+      <DependentUpon>frmABMAtencion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\AtencionF\frmAtencion.resx">
+      <DependentUpon>frmAtencion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\ClienteF\frmABMCliente.resx">
+      <DependentUpon>frmABMCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\ClienteF\frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\MascotaF\frmABMMascota.resx">
+      <DependentUpon>frmABMMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\MascotaF\frmMascota.resx">
+      <DependentUpon>frmMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\TipoF\frmABMTipo.resx">
+      <DependentUpon>frmABMTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\TipoF\frmTipo.resx">
+      <DependentUpon>frmTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\UsuariosF\frmABMUsuario.resx">
+      <DependentUpon>frmABMUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Presentacion\UsuariosF\frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

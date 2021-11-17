@@ -1,0 +1,75 @@
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmABMCliente.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmCliente.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmABMTipo.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmTipo.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmABMMascota.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmMascota.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmABMAtencion.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmABMAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmABMCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmABMMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmABMTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\VeterinariaApi\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\VeterinariaApi\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\VeterinariaApi\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.AtencionF.frmABMAtencion.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.AtencionF.frmAtencion.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.ClienteF.frmABMCliente.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.ClienteF.frmCliente.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.MascotaF.frmABMMascota.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.MascotaF.frmMascota.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.TipoF.frmABMTipo.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.TipoF.frmTipo.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\VeterinariaApi\obj\Debug\veterNetFram.pdb
