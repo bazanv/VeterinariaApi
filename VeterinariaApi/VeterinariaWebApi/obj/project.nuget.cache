@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jlXQqQ49D5EhLOxi8iVqYiDpaeq9BdDvnP5Y+UCyHhrqipZmXcPylBT3Pk+g1fgCj0DE9rrKH3wkFtsiyvv8A==",
+  "dgSpecHash": "jbXExO5a3My9sg8RLx9vooEcUaOKLDbnO4JioGM3D45Rl8pXNuANZxJ1vDLLLbQlexWt6obxlSs9r46QJcgWIQ==",
   "success": true,
-  "projectFilePath": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaWebApi\\VeterinariaWebApi.csproj",
+  "projectFilePath": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaWebApi\\VeterinariaWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bazan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\bazan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

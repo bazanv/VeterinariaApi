@@ -514,11 +514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaFront\\VeterinariaFront.csproj",
+      "projectUniqueName": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaFront\\VeterinariaFront.csproj",
       "projectName": "VeterinariaFront",
-      "projectPath": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaFront\\VeterinariaFront.csproj",
+      "projectPath": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaFront\\VeterinariaFront.csproj",
       "packagesPath": "C:\\Users\\bazan\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaFront\\obj\\",
+      "outputPath": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaFront\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -535,8 +535,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj": {
-              "projectPath": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj"
+            "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj": {
+              "projectPath": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj"
             }
           }
         }

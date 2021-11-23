@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shJz4nCehDHQrLrqCPslMiJZDHN/sikW2QwAsFBTIWG2uZQCiZaV7IhsrK13SGc/blOzaEZEJzpgn9Ny0dt+7w==",
+  "dgSpecHash": "IDKhuldQxuxZMz7VCTjw7BX7BZXQRJ+x0CTE1hQH/MbQNsphcjLCCYyJXxl97UwrPsOOKHwSTWRn8KU1mVhK1g==",
   "success": true,
-  "projectFilePath": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj",
+  "projectFilePath": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bazan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\bazan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSListado" targetNamespace="http://tempuri.org/DSListado.xsd" xmlns:mstns="http://tempuri.org/DSListado.xsd" xmlns="http://tempuri.org/DSListado.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="VConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="VConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.veterNetFram.Properties.Settings.GlobalReference.Default.VConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="VConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT FORMAT(Atencion.fecha, 'dd/MM/yyyy') AS Fecha, Clientes.c_nombre AS Cliente, Mascotas.m_nombre AS Mascota, Atencion.importe AS Importe
+FROM     Atencion INNER JOIN
+                  Mascotas ON Atencion.id_mascota = Mascotas.id_mascota INNER JOIN
+                  Clientes ON Mascotas.id_cliente = Clientes.id_cliente
+WHERE  (Atencion.borrado = 0) AND (MONTH(Atencion.fecha) = MONTH(GETDATE()))</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Fecha" DataSetColumn="Fecha" />
+              <Mapping SourceColumn="Cliente" DataSetColumn="Cliente" />
+              <Mapping SourceColumn="Mascota" DataSetColumn="Mascota" />
+              <Mapping SourceColumn="Importe" DataSetColumn="Importe" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSListado" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSListado" msprop:Generator_UserDSName="DSListado">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Fecha" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" msprop:Generator_UserColumnName="Fecha" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cliente" msprop:Generator_ColumnVarNameInTable="columnCliente" msprop:Generator_ColumnPropNameInRow="Cliente" msprop:Generator_ColumnPropNameInTable="ClienteColumn" msprop:Generator_UserColumnName="Cliente" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mascota" msprop:Generator_ColumnVarNameInTable="columnMascota" msprop:Generator_ColumnPropNameInRow="Mascota" msprop:Generator_ColumnPropNameInTable="MascotaColumn" msprop:Generator_UserColumnName="Mascota" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Importe" msprop:Generator_ColumnVarNameInTable="columnImporte" msprop:Generator_ColumnPropNameInRow="Importe" msprop:Generator_ColumnPropNameInTable="ImporteColumn" msprop:Generator_UserColumnName="Importe" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DTReporte" msprop:Generator_TableClassName="DTReporteDataTable" msprop:Generator_TableVarName="tableDTReporte" msprop:Generator_RowChangedName="DTReporteRowChanged" msprop:Generator_TablePropName="DTReporte" msprop:Generator_RowDeletingName="DTReporteRowDeleting" msprop:Generator_RowChangingName="DTReporteRowChanging" msprop:Generator_RowEvHandlerName="DTReporteRowChangeEventHandler" msprop:Generator_RowDeletedName="DTReporteRowDeleted" msprop:Generator_RowClassName="DTReporteRow" msprop:Generator_UserTableName="DTReporte" msprop:Generator_RowEvArgName="DTReporteRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Producto" msprop:Generator_ColumnVarNameInTable="columnProducto" msprop:Generator_ColumnPropNameInRow="Producto" msprop:Generator_ColumnPropNameInTable="ProductoColumn" msprop:Generator_UserColumnName="Producto" type="xs:string" minOccurs="0" />
+              <xs:element name="Unidades" msprop:Generator_ColumnVarNameInTable="columnUnidades" msprop:Generator_ColumnPropNameInRow="Unidades" msprop:Generator_ColumnPropNameInTable="UnidadesColumn" msprop:Generator_UserColumnName="Unidades" type="xs:int" minOccurs="0" />
+              <xs:element name="Importes" msprop:Generator_ColumnVarNameInTable="columnImportes" msprop:Generator_ColumnPropNameInRow="Importes" msprop:Generator_ColumnPropNameInTable="ImportesColumn" msprop:Generator_UserColumnName="Importes" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DTAtencion" msprop:Generator_TableClassName="DTAtencionDataTable" msprop:Generator_TableVarName="tableDTAtencion" msprop:Generator_TablePropName="DTAtencion" msprop:Generator_RowDeletingName="DTAtencionRowDeleting" msprop:Generator_RowChangingName="DTAtencionRowChanging" msprop:Generator_RowEvHandlerName="DTAtencionRowChangeEventHandler" msprop:Generator_RowDeletedName="DTAtencionRowDeleted" msprop:Generator_UserTableName="DTAtencion" msprop:Generator_RowChangedName="DTAtencionRowChanged" msprop:Generator_RowEvArgName="DTAtencionRowChangeEvent" msprop:Generator_RowClassName="DTAtencionRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

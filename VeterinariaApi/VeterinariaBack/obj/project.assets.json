@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj",
+      "projectUniqueName": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj",
       "projectName": "VeterinariaBack",
-      "projectPath": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj",
+      "projectPath": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaBack\\VeterinariaBack.csproj",
       "packagesPath": "C:\\Users\\bazan\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\TP PROG 2\\VeterinariaApi\\VeterinariaBack\\obj\\",
+      "outputPath": "D:\\GIT\\TP PROG 2\\BAZANV\\VeterinariaApi\\VeterinariaApi\\VeterinariaBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bazan\\AppData\\Roaming\\NuGet\\NuGet.Config",

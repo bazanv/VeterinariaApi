@@ -10,3 +10,15 @@ D:\GIT\TP PROG 2\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack
 D:\GIT\TP PROG 2\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\ref\VeterinariaBack.dll
 D:\GIT\TP PROG 2\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.pdb
 D:\GIT\TP PROG 2\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\bin\Debug\net5.0\VeterinariaBack.deps.json
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\bin\Debug\net5.0\VeterinariaBack.dll
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\bin\Debug\net5.0\ref\VeterinariaBack.dll
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\bin\Debug\net5.0\VeterinariaBack.pdb
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.AssemblyInfoInputs.cache
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.AssemblyInfo.cs
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.dll
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\ref\VeterinariaBack.dll
+D:\GIT\TP PROG 2\BAZANV\VeterinariaApi\VeterinariaApi\VeterinariaBack\obj\Debug\net5.0\VeterinariaBack.pdb

@@ -1,0 +1,168 @@
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmABMCliente.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmCliente.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmABMTipo.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmTipo.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmABMMascota.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmMascota.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmABMAtencion.resources
+D:\GIT\TP PROG 2\VETERINARIA  BRANCH_VICTOR\veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmABMAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmABMCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmABMMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmABMTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-09 veterNetFram\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmABMAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.AtencionF.frmAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmABMCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.ClienteF.frmCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmABMMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.MascotaF.frmMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmABMTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.TipoF.frmTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\veterNetFram.exe.config
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\EnvDTE.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\stdole.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\Microsoft.MSXML.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.csprojAssemblyReference.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.AtencionF.frmABMAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.AtencionF.frmAtencion.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.ClienteF.frmABMCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.ClienteF.frmCliente.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.frmLogin.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.frmPrincipal.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.MascotaF.frmABMMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.MascotaF.frmMascota.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.Reportes.frmListado.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.TipoF.frmABMTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.TipoF.frmTipo.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmABMUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.UsuarioF.frmUsuario.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Properties.Resources.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.csproj.GenerateResource.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\RdlCompile.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\RdlCompile.compiled
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.csproj.CoreCompileInputs.cache
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.csproj.CopyComplete
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.exe
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.pdb
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.Reportes.frmReporte.resources
+D:\GIT\TP PROG 2\prueba veter\21-11-15 veterNetFram - Reporte\obj\Debug\veterNetFram.Presentacion.Reportes.frmAtencionComp.resources
